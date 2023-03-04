@@ -1,6 +1,8 @@
 <a href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl"
   >news-homepage-main</a>
-
+ <a href="https://news-homepage-main-coral.vercel.app/"> 
+  Live in Vercel
+ </a>
 <h1>Desktop-design</h1>
 <img src="./design/desktop-design.jpg" />
 <h1>Mobile-Design</h1>
